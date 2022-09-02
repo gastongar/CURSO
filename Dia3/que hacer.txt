@@ -1,0 +1,19 @@
+proyecto dia3
+analizado de texto
+-pedir que ingrese un texto
+tmabien que ingrese 3 letras a su eleccion
+
+5 analisis
+1-- cuantas veces aparecen cada una de las letras que eligio
+may-min  pasar todo a min
+2-- decir cuantas palabras hay en el texto
+3-- primera letra y la ultima
+4-- orden inverso del texto
+5 decir si python esta en el texto
+
+
+
+
+
+
+
