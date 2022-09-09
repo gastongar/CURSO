@@ -1,3 +1,4 @@
+
 mi_archivo = open('prueba1.txt',"a")
 
 mi_archivo.write('soy el nuevo texto\n')

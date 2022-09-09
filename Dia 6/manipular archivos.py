@@ -1,4 +1,4 @@
-mi_archivo = open('prueba.txt')
+mmi_archivo = open('prueba.txt')
 
 #todas = mi_archivo.readlines()
 #print(mi_archivo.read())
