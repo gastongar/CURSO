@@ -1,5 +1,5 @@
-from pathlib import Path
 import os
+from pathlib import Path
 
 carpeta = Path('C:/Users/garab/OneDrive/Documentos/CURSO')
 archivo = carpeta / 'alternativo.txt'

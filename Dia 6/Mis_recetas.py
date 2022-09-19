@@ -1,6 +1,6 @@
 import os
-from pathlib import Path
 from os import system
+from pathlib import Path
 
 mi_ruta = Path(Path.home(), "Recetas")
 

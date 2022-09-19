@@ -12,8 +12,6 @@ print('remove(c):', d)
 
 b=["Londres", "Berlin", "París", "Madrid", "Roma", "Moscú"]
 
-from collections import deque
-
 d=["Londres", "Berlin", "París", "Madrid", "Roma", "Moscú"]
 d.append("Rosario")
 d.appendleft['elortondo']
