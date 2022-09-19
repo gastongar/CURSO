@@ -1,5 +1,6 @@
 from math import sqrt
 import numpy
+
 try:
     input = raw_input
 except NameError:
