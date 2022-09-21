@@ -5,7 +5,7 @@ tmabien que ingrese 3 letras a su eleccion
 
 5 analisis
 1-- cuantas veces aparecen cada una de las letras que eligio
-may-min  pasar todo a min
+may-min  pasar "todo" a minutos
 2-- decir cuantas palabras hay en el texto
 3-- primera letra y la ultima
 4-- orden inverso del texto

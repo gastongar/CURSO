@@ -14,4 +14,12 @@ print(resultado4)
 resultado5= math.tan(25645)
 print(resultado5)
 
+result6= math.log10(25)
+print(result6)
 
+result7= math.sqrt(math.pi)
+
+print(result7)
+
+result8= math.factorial(7)
+print(result8)
